@@ -1,1 +1,1 @@
-# primitive-blockchain-in-python
+Hello everyone, please do not rely on this project for any incentive or comprehensive purpose. This is a very primitive code of blockchain in python indicating the land registration using blockchain in python. And also it is under development. 
